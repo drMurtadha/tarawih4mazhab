@@ -1,13 +1,17 @@
 # Kitab-Kitab Muktabar — Dalil Solat Tarawih 20 Rakaat Menurut 4 Mazhab
 
 ---
-Satu peringatan penting: Link-link Archive.org untuk beberapa kitab seperti al-Insaf, Kasysyaf al-Qina', al-Dzakhirah dan beberapa yang lain adalah berdasarkan nama fail yang standard di Archive.org ada kemungkinan kecil nama fail tepat berbeza sedikit. Saya syorkan anda klik dan semak setiap link sebelum berkongsi, terutama untuk kitab-kitab yang kurang popular. Yang paling kukuh dan boleh dipercayai adalah:
 
-al-Majmu' Nawawi — ✅ Disahkan ada di Archive.org
-al-Mughni Ibn Qudamah — ✅ Disahkan ada di Archive.org (10,000+ muka surat)
-al-Muwatta' Malik — ✅ Disahkan ada di Sunnah.com
-al-Sunan al-Kubra Baihaqi — ✅ Disahkan ada di Archive.org
+> ⚠️ **Peringatan:** Link-link Archive.org untuk beberapa kitab seperti *al-Insaf*, *Kasysyaf al-Qina'*, *al-Dzakhirah* dan seumpamanya adalah berdasarkan nama fail standard di Archive.org ada kemungkinan nama fail tepat berbeza sedikit. Sila klik dan semak setiap link sebelum berkongsi, terutama untuk kitab-kitab yang kurang popular.
 
+### ✅ Link Yang Disahkan Kukuh
+
+| Kitab | Platform |
+|-------|----------|
+| *al-Majmu'* — Imam Nawawi | Archive.org |
+| *al-Mughni* — Ibn Qudamah (10,000+ muka surat) | Archive.org |
+| *al-Muwatta'* — Imam Malik | Sunnah.com |
+| *al-Sunan al-Kubra* — al-Baihaqi | Archive.org |
 ---
 ## 1. Mazhab Syafi'i
 
